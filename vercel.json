@@ -1,0 +1,29 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    {
+      "source": "/index/index/confirm",
+      "destination": "https://www.usdt.love/index/index/confirm"
+    },
+    {
+      "source": "/index/index/notify",
+      "destination": "https://www.usdt.love/index/index/notify"
+    },
+    {
+      "source": "/api/:path*",
+      "destination": "https://www.usdt.love/api/:path*"
+    },
+    {
+      "source": "/index.php",
+      "destination": "https://www.usdt.love/index.php"
+    },
+    {
+      "source": "/index.php/:path*",
+      "destination": "https://www.usdt.love/index.php/:path*"
+    },
+    {
+      "source": "/assets/:path*",
+      "destination": "https://www.usdt.love/assets/:path*"
+    }
+  ]
+}
