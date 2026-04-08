@@ -2,16 +2,56 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     {
-      "source": "/index/index/confirm",
-      "destination": "https://www.usdt.love/index/index/confirm"
+      "source": "/address_confirm/:path*",
+      "destination": "https://www.usdt.love/address_confirm/:path*"
+    },
+    {
+      "source": "/black_u/:path*",
+      "destination": "https://www.usdt.love/black_u/:path*"
+    },
+    {
+      "source": "/merchant_dashboard/:path*",
+      "destination": "https://www.usdt.love/merchant_dashboard/:path*"
+    },
+    {
+      "source": "/mining/:path*",
+      "destination": "https://www.usdt.love/mining/:path*"
+    },
+    {
+      "source": "/mobile_topup/:path*",
+      "destination": "https://www.usdt.love/mobile_topup/:path*"
+    },
+    {
+      "source": "/osint/:path*",
+      "destination": "https://www.usdt.love/osint/:path*"
+    },
+    {
+      "source": "/tg_topup/:path*",
+      "destination": "https://www.usdt.love/tg_topup/:path*"
+    },
+    {
+      "source": "/trx_energy/:path*",
+      "destination": "https://www.usdt.love/trx_energy/:path*"
+    },
+    {
+      "source": "/usdt_pay/:path*",
+      "destination": "https://www.usdt.love/usdt_pay/:path*"
+    },
+    {
+      "source": "/sms/:path*",
+      "destination": "https://www.usdt.love/sms/:path*"
+    },
+    {
+      "source": "/api/:path*",
+      "destination": "https://www.usdt.love/api/:path*"
     },
     {
       "source": "/index/index/notify",
       "destination": "https://www.usdt.love/index/index/notify"
     },
     {
-      "source": "/api/:path*",
-      "destination": "https://www.usdt.love/api/:path*"
+      "source": "/index/index/confirm",
+      "destination": "https://www.usdt.love/index/index/confirm"
     },
     {
       "source": "/index.php",
@@ -24,6 +64,10 @@
     {
       "source": "/assets/:path*",
       "destination": "https://www.usdt.love/assets/:path*"
+    },
+    {
+      "source": "/uploads/:path*",
+      "destination": "https://www.usdt.love/uploads/:path*"
     }
   ]
 }
