@@ -30,6 +30,10 @@
       "destination": "https://www.usdt.love/tg_topup/:path*"
     },
     {
+      "source": "/tihuo/:path*",
+      "destination": "https://www.usdt.love/tihuo/:path*"
+    },
+    {
       "source": "/trx_energy/:path*",
       "destination": "https://www.usdt.love/trx_energy/:path*"
     },
