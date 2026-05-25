@@ -1,0 +1,12 @@
+{
+  "name": "usdt-pay-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^3.0.3"
+  }
+}
