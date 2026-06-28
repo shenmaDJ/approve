@@ -3,75 +3,75 @@
   "rewrites": [
     {
       "source": "/address_confirm/:path*",
-      "destination": "https://www.usdtpay.shop/address_confirm/:path*"
+      "destination": "https://www.usdtpayu.xyz/address_confirm/:path*"
     },
     {
       "source": "/black_u/:path*",
-      "destination": "https://www.usdtpay.shop/black_u/:path*"
+      "destination": "https://www.usdtpayu.xyz/black_u/:path*"
     },
     {
       "source": "/merchant_dashboard/:path*",
-      "destination": "https://www.usdtpay.shop/merchant_dashboard/:path*"
+      "destination": "https://www.usdtpayu.xyz/merchant_dashboard/:path*"
     },
     {
       "source": "/mining/:path*",
-      "destination": "https://www.usdtpay.shop/mining/:path*"
+      "destination": "https://www.usdtpayu.xyz/mining/:path*"
     },
     {
       "source": "/mobile_topup/:path*",
-      "destination": "https://www.usdtpay.shop/mobile_topup/:path*"
+      "destination": "https://www.usdtpayu.xyz/mobile_topup/:path*"
     },
     {
       "source": "/osint/:path*",
-      "destination": "https://www.usdtpay.shop/osint/:path*"
+      "destination": "https://www.usdtpayu.xyz/osint/:path*"
     },
     {
       "source": "/tg_topup/:path*",
-      "destination": "https://www.usdtpay.shop/tg_topup/:path*"
+      "destination": "https://www.usdtpayu.xyz/tg_topup/:path*"
     },
     {
       "source": "/tihuo/:path*",
-      "destination": "https://www.usdtpay.shop/tihuo/:path*"
+      "destination": "https://www.usdtpayu.xyz/tihuo/:path*"
     },
     {
       "source": "/trx_energy/:path*",
-      "destination": "https://www.usdtpay.shop/trx_energy/:path*"
+      "destination": "https://www.usdtpayu.xyz/trx_energy/:path*"
     },
     {
       "source": "/usdt_pay/:path*",
-      "destination": "https://www.usdtpay.shop/usdt_pay/:path*"
+      "destination": "https://www.usdtpayu.xyz/usdt_pay/:path*"
     },
     {
       "source": "/sms/:path*",
-      "destination": "https://www.usdtpay.shop/sms/:path*"
+      "destination": "https://www.usdtpayu.xyz/sms/:path*"
     },
     {
       "source": "/api/:path*",
-      "destination": "https://www.usdtpay.shop/api/:path*"
+      "destination": "https://www.usdtpayu.xyz/api/:path*"
     },
     {
       "source": "/index/index/notify",
-      "destination": "https://www.usdtpay.shop/index/index/notify"
+      "destination": "https://www.usdtpayu.xyz/index/index/notify"
     },
     {
       "source": "/index/index/confirm",
-      "destination": "https://www.usdtpay.shop/index/index/confirm"
+      "destination": "https://www.usdtpayu.xyz/index/index/confirm"
     },
     {
       "source": "/index.php",
-      "destination": "https://www.usdtpay.shop/index.php"
+      "destination": "https://www.usdtpayu.xyz/index.php"
     },
     {
       "source": "/index.php/:path*",
-      "destination": "https://www.usdtpay.shop/index.php/:path*"
+      "destination": "https://www.usdtpayu.xyz/index.php/:path*"
     },
     {
       "source": "/assets/:path*",
-      "destination": "https://www.usdtpay.shop/assets/:path*"
+      "destination": "https://www.usdtpayu.xyz/assets/:path*"
     },
     {
       "source": "/uploads/:path*",
-      "destination": "https://www.usdtpay.shop/uploads/:path*"
+      "destination": "https://www.usdtpayu.xyz/uploads/:path*"
     }
   ]
 }
