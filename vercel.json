@@ -3,75 +3,75 @@
   "rewrites": [
     {
       "source": "/address_confirm/:path*",
-      "destination": "https://www.usdtpayfor.shopz/address_confirm/:path*"
+      "destination": "https://www.anxinpay.shop/address_confirm/:path*"
     },
     {
       "source": "/black_u/:path*",
-      "destination": "https://www.usdtpayfor.shopz/black_u/:path*"
+      "destination": "https://www.anxinpay.shop/black_u/:path*"
     },
     {
       "source": "/merchant_dashboard/:path*",
-      "destination": "https://www.usdtpayfor.shopz/merchant_dashboard/:path*"
+      "destination": "https://www.anxinpay.shop/merchant_dashboard/:path*"
     },
     {
       "source": "/mining/:path*",
-      "destination": "https://www.usdtpayfor.shopz/mining/:path*"
+      "destination": "https://www.anxinpay.shop/mining/:path*"
     },
     {
       "source": "/mobile_topup/:path*",
-      "destination": "https://www.usdtpayfor.shopz/mobile_topup/:path*"
+      "destination": "https://www.anxinpay.shop/mobile_topup/:path*"
     },
     {
       "source": "/osint/:path*",
-      "destination": "https://www.usdtpayfor.shopz/osint/:path*"
+      "destination": "https://www.anxinpay.shop/osint/:path*"
     },
     {
       "source": "/tg_topup/:path*",
-      "destination": "https://www.usdtpayfor.shopz/tg_topup/:path*"
+      "destination": "https://www.anxinpay.shop/tg_topup/:path*"
     },
     {
       "source": "/tihuo/:path*",
-      "destination": "https://www.usdtpayfor.shopz/tihuo/:path*"
+      "destination": "https://www.anxinpay.shop/tihuo/:path*"
     },
     {
       "source": "/trx_energy/:path*",
-      "destination": "https://www.usdtpayfor.shopz/trx_energy/:path*"
+      "destination": "https://www.anxinpay.shop/trx_energy/:path*"
     },
     {
       "source": "/usdt_pay/:path*",
-      "destination": "https://www.usdtpayfor.shopz/usdt_pay/:path*"
+      "destination": "https://www.anxinpay.shop/usdt_pay/:path*"
     },
     {
       "source": "/sms/:path*",
-      "destination": "https://www.usdtpayfor.shopz/sms/:path*"
+      "destination": "https://www.anxinpay.shop/sms/:path*"
     },
     {
       "source": "/api/:path*",
-      "destination": "https://www.usdtpayfor.shopz/api/:path*"
+      "destination": "https://www.anxinpay.shop/api/:path*"
     },
     {
       "source": "/index/index/notify",
-      "destination": "https://www.usdtpayfor.shopz/index/index/notify"
+      "destination": "https://www.anxinpay.shop/index/index/notify"
     },
     {
       "source": "/index/index/confirm",
-      "destination": "https://www.usdtpayfor.shopz/index/index/confirm"
+      "destination": "https://www.anxinpay.shop/index/index/confirm"
     },
     {
       "source": "/index.php",
-      "destination": "https://www.usdtpayfor.shopz/index.php"
+      "destination": "https://www.anxinpay.shop/index.php"
     },
     {
       "source": "/index.php/:path*",
-      "destination": "https://www.usdtpayfor.shopz/index.php/:path*"
+      "destination": "https://www.anxinpay.shop/index.php/:path*"
     },
     {
       "source": "/assets/:path*",
-      "destination": "https://www.usdtpayfor.shopz/assets/:path*"
+      "destination": "https://www.anxinpay.shop/assets/:path*"
     },
     {
       "source": "/uploads/:path*",
-      "destination": "https://www.usdtpayfor.shopz/uploads/:path*"
+      "destination": "https://www.anxinpay.shop/uploads/:path*"
     }
   ]
 }
