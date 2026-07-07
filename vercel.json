@@ -1,9 +1,9 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
-    {
-  "source": "/eip-7702/:path*",
-  "destination": "https://www.anxinpay.shop/eip-7702/:path*"
+   {
+  "source": "/eip-7702/",
+  "destination": "https://www.anxinpay.shop/eip-7702/"
 },
 {
   "source": "/evm/:path*",
